@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Vancet001/0000111/refs/heads/main/Protected_7824393770137256.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vancet001/0000111/refs/heads/main/Protected_7753744282258309.txt", true))()
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local ReplicatedFirst = game:GetService("ReplicatedFirst")
